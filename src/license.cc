@@ -12,9 +12,9 @@
 #include <iterator>
 #include <license++/license.h>
 #include <license++/license-exception.h>
-#include "src/crypto/base64.h"
-#include "src/json-object.h"
-#include "src/utils.h"
+#include "crypto/base64.h"
+#include "json-object.h"
+#include "utils.h"
 
 using namespace licensepp;
 

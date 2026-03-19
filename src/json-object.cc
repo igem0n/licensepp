@@ -7,7 +7,7 @@
 //  See https://github.com/abumq/licensepp/blob/master/LICENSE 
 //
 
-#include "src/json-object.h"
+#include "json-object.h"
 
 using namespace licensepp;
 

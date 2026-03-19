@@ -11,7 +11,7 @@
 #define LICENSEPP_JsonObject_h
 
 #include <iostream>
-#include <json.h>
+#include <nlohmann/json.hpp>
 
 namespace licensepp {
 

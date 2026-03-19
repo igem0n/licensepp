@@ -9,7 +9,7 @@
 
 #include <Ripe.h>
 
-#include "src/crypto/base64.h"
+#include "base64.h"
 
 using namespace licensepp;
 

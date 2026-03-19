@@ -11,7 +11,7 @@
 #define LICENSE_MANAGER_TEST_H
 
 #include "test.h"
-#include "test/license-manager-for-test.h"
+#include "license-manager-for-test.h"
 #include <license++/license.h>
 
 using namespace licensepp;

@@ -9,8 +9,8 @@
 
 #include <Ripe.h>
 
-#include "src/crypto/rsa.h"
-#include "src/crypto/base64.h"
+#include "rsa.h"
+#include "base64.h"
 
 using namespace licensepp;
 

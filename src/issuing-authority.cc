@@ -12,11 +12,11 @@
 #include <license++/issuing-authority.h>
 #include <license++/license.h>
 #include <license++/license-exception.h>
-#include "src/crypto/aes.h"
-#include "src/crypto/base16.h"
-#include "src/crypto/base64.h"
-#include "src/crypto/rsa.h"
-#include "src/utils.h"
+#include "crypto/aes.h"
+#include "crypto/base16.h"
+#include "crypto/base64.h"
+#include "crypto/rsa.h"
+#include "utils.h"
 
 using namespace licensepp;
 

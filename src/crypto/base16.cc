@@ -8,7 +8,7 @@
 //
 
 #include <Ripe.h>
-#include "src/crypto/base16.h"
+#include "base16.h"
 
 using namespace licensepp;
 

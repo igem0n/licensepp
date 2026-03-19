@@ -8,7 +8,7 @@
 //
 
 #include <ctime>
-#include "src/utils.h"
+#include "utils.h"
 
 using namespace licensepp;
 

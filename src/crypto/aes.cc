@@ -9,7 +9,7 @@
 
 #include <Ripe.h>
 
-#include "src/crypto/aes.h"
+#include "aes.h"
 
 using namespace licensepp;
 
