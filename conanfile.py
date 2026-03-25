@@ -27,11 +27,11 @@ class licensepp(ConanFile):
             self.options.rm_safe("fPIC")
         
     def requirements(self):
-        self.requires("nlohmann_json/3.12.0")
+        self.requires("nlohmann_json/[>=3.12.0]")
         self.requires("ripe/4.2.2")
 
     def build_requirements(self):
-        self.test_requires("gtest/1.17.0")
+        self.test_requires("gtest/[>=1.17.0]")
         
     def generate(self):
         tc = CMakeToolchain(self)
